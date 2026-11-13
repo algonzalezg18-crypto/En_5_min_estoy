@@ -1,0 +1,639 @@
+fileFormatVersion: 2
+guid: b410204415d0f384db19a29c94a10ace
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7147071834336594303
+    second: spritesheet_3Kirby_0
+  - first:
+      213: 1544835118536840690
+    second: spritesheet_3Kirby_1
+  - first:
+      213: -4244367996116020885
+    second: spritesheet_3Kirby_2
+  - first:
+      213: -9109767878868802116
+    second: spritesheet_3Kirby_3
+  - first:
+      213: -7675378650451918186
+    second: spritesheet_3Kirby_4
+  - first:
+      213: -4934234017133845614
+    second: spritesheet_3Kirby_5
+  - first:
+      213: 7425121873189781058
+    second: spritesheet_3Kirby_6
+  - first:
+      213: 6563162570088782588
+    second: spritesheet_3Kirby_7
+  - first:
+      213: -379401748264836848
+    second: spritesheet_3Kirby_8
+  - first:
+      213: -1751915684045006866
+    second: spritesheet_3Kirby_9
+  - first:
+      213: 8248568884930365293
+    second: spritesheet_3Kirby_10
+  - first:
+      213: -5401451106511948598
+    second: spritesheet_3Kirby_11
+  - first:
+      213: 7382770417973942125
+    second: spritesheet_3Kirby_12
+  - first:
+      213: -7748750775501440359
+    second: spritesheet_3Kirby_13
+  - first:
+      213: 6655616290207888691
+    second: spritesheet_3Kirby_14
+  - first:
+      213: -8305067593573846678
+    second: spritesheet_3Kirby_15
+  - first:
+      213: 4884031642715213145
+    second: spritesheet_3Kirby_16
+  - first:
+      213: 7629968409533592503
+    second: spritesheet_3Kirby_17
+  - first:
+      213: -3586554007823892077
+    second: spritesheet_3Kirby_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spritesheet_3Kirby_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 324
+        width: 70
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7905dd67ff7f2360800000000000000
+      internalID: 7147071834336594303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_3Kirby_1
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 324
+        width: 70
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f5dfecfa5b507510800000000000000
+      internalID: 1544835118536840690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_3Kirby_2
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 324
+        width: 70
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b61d77f8bc9f815c0800000000000000
+      internalID: -4244367996116020885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_3Kirby_3
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 324
+        width: 81
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb5e2c9316a939180800000000000000
+      internalID: -9109767878868802116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_3Kirby_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 259
+        width: 161
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 692423788c39b7590800000000000000
+      internalID: -7675378650451918186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_3Kirby_5
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 259
+        width: 76
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 293a61add44168bb0800000000000000
+      internalID: -4934234017133845614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_3Kirby_6
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 259
+        width: 76
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24eb571f0055b0760800000000000000
+      internalID: 7425121873189781058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_3Kirby_7
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 194
+        width: 67
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfa18499599051b50800000000000000
+      internalID: 6563162570088782588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_3Kirby_8
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 194
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 011238fbe181cbaf0800000000000000
+      internalID: -379401748264836848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_3Kirby_9
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 135
+        width: 64
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee7df08a7f1ffa7e0800000000000000
+      internalID: -1751915684045006866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_3Kirby_10
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 194
+        width: 70
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d674d93b2bdc87270800000000000000
+      internalID: 8248568884930365293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_3Kirby_11
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 64
+        width: 76
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac4f6b436d03a05b0800000000000000
+      internalID: -5401451106511948598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_3Kirby_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 0
+        width: 76
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d67599d549ed47660800000000000000
+      internalID: 7382770417973942125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_3Kirby_13
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 64
+        width: 76
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99a343d6938e67490800000000000000
+      internalID: -7748750775501440359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_3Kirby_14
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 0
+        width: 73
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 335f423c0cf7d5c50800000000000000
+      internalID: 6655616290207888691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_3Kirby_15
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 64
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a613c6996097ebc80800000000000000
+      internalID: -8305067593573846678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_3Kirby_16
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 0
+        width: 73
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95dcecff6e097c340800000000000000
+      internalID: 4884031642715213145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_3Kirby_17
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 64
+        width: 76
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b3b3b9d7d713e960800000000000000
+      internalID: 7629968409533592503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_3Kirby_18
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 0
+        width: 73
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39147ebd1200a3ec0800000000000000
+      internalID: -3586554007823892077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      spritesheet_3Kirby_0: 7147071834336594303
+      spritesheet_3Kirby_1: 1544835118536840690
+      spritesheet_3Kirby_10: 8248568884930365293
+      spritesheet_3Kirby_11: -5401451106511948598
+      spritesheet_3Kirby_12: 7382770417973942125
+      spritesheet_3Kirby_13: -7748750775501440359
+      spritesheet_3Kirby_14: 6655616290207888691
+      spritesheet_3Kirby_15: -8305067593573846678
+      spritesheet_3Kirby_16: 4884031642715213145
+      spritesheet_3Kirby_17: 7629968409533592503
+      spritesheet_3Kirby_18: -3586554007823892077
+      spritesheet_3Kirby_2: -4244367996116020885
+      spritesheet_3Kirby_3: -9109767878868802116
+      spritesheet_3Kirby_4: -7675378650451918186
+      spritesheet_3Kirby_5: -4934234017133845614
+      spritesheet_3Kirby_6: 7425121873189781058
+      spritesheet_3Kirby_7: 6563162570088782588
+      spritesheet_3Kirby_8: -379401748264836848
+      spritesheet_3Kirby_9: -1751915684045006866
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
